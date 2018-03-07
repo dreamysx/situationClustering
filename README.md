@@ -21,3 +21,4 @@ For example:
 ```
 $ python situationClustering.py sampleInput/ sampleOutput/
 ```
+Then, clustering will be running, and it will tell you how many clusters we got. Clusters can be check in your predefined output directory.
