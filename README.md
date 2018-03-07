@@ -11,11 +11,7 @@ This first version is developed for dataset **ll_Nepal** only. Clustering is bas
 ### Usage
 Git clone package with the following command:
 ```
-$ git clone https://github.com/dreamysx/lorelei.git
-```
-Change directory to where code is:
-```
-$ cd situationClustering
+$ git clone https://github.com/dreamysx/situationClustering.git
 ```
 Execute the following command to run the code:
 ```
